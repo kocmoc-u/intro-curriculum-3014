@@ -6,7 +6,7 @@
 5. top → form → thanks を設置
 6. ページの遷移をつくる ← branch-0112b
 
-# repository を cosmos-cafe-order に変更
+# repository を cosmos-cafe-order に変更およびリモートに複製
 // コスモスカフェのオーダーページを組み込み
 // css をモジュールで読み込み
 // ログを自然な文字列に変更 3章15の練習問題
