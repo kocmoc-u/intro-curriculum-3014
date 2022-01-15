@@ -1,9 +1,0 @@
-# pack-refs with: peeled fully-peeled sorted 
-d953d965c717e0576186b69367833dc510bd608b refs/heads/branch-0112
-d953d965c717e0576186b69367833dc510bd608b refs/heads/branch-0112b
-c4b268ee24ecf5ec6f34e9c774ea8b7d6a7030fa refs/heads/main
-a36095c32f3e52f2334f74d9d3ee46bb47eeeb5b refs/heads/main-2021
-5dc300ccfff59980e8e166f78ce7dab243c3a0a5 refs/heads/master
-0743040bc8a40709b69b06514b849a1e6ab52499 refs/heads/master-2018
-668775d785b7008d874c242bd4114de2726aa5d4 refs/heads/master-2019
-5d3ba2c95b867b8328eacc6a72cc71d2324aeefc refs/heads/master-2020
